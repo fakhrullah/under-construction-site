@@ -1,0 +1,23 @@
+{
+  "name": "maintenance-site",
+  "version": "1.0.0",
+  "description": "This html code taken from https://gist.github.com/pitch-gist/2999707",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakhrullah/under-construction-site.git"
+  },
+  "keywords": [],
+  "author": "Fakhrullah Padzil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakhrullah/under-construction-site/issues"
+  },
+  "homepage": "https://github.com/fakhrullah/under-construction-site#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
